@@ -2,6 +2,7 @@
 
 In this analysis, I used CitiBike data for August of 2019 that was released to the public. I chose to use August because it is a beautiful time of the year in New York City to rent a bike. My friend Kate and I want to use this data as a starting point to determine how many rides we could expect in the city of Des Moines. Tableau was utilized to show the data in a way that is easy to understand.
 
+[View the story on Tableau](https://public.tableau.com/app/profile/ariana.wilson/viz/ChallengeNYCitiBike/Checkouts)
 ## Ride into the data
 
 Through analyzing this bike share data, we will be able to answer the following questions:
@@ -53,8 +54,7 @@ We can also see that regardless of gender, users tend to use the bike for a shor
 ![show gender dif](https://user-images.githubusercontent.com/19378130/186574927-bdb1be69-3383-4874-a180-ea5d751563a0.PNG)
 
 ## The End of the Road
-In short, bikesharing would show success in the city of Des Moines
-
+In short, bikesharing would show success in the city of Des Moines, but in numbers that better reflect the population. The bikes seem to be used more for local travel to and from workplaces, so it would be ideal to set them up in populated work areas. Additional information that would be great to have is how far distance wise are the bikes used to travel. In New York, buildings are close together, which may not be the case for Des Moines. It would also be ideal to figure out how to appeal more to females and unknown genders to capture them as subscribers. I would also like to see the relation between pricing and time used.
 
 
 
